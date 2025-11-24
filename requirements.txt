@@ -1,0 +1,12 @@
+streamlit
+playwright
+beautifulsoup4
+lxml
+newspaper3k
+textblob
+sqlalchemy
+pytest
+pandas
+plotly
+lxml_html_clean
+fpdf

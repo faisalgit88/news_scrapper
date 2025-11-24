@@ -1,0 +1,7 @@
+.git
+.venv
+__pycache__
+*.pyc
+.pytest_cache
+news_data.db
+scraper_debug.log

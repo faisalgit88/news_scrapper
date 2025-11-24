@@ -1,0 +1,640 @@
+2025-11-22 21:39:25,693 - scraper - INFO - Navigating to https://news.ycombinator.com/...
+2025-11-22 21:39:26,574 - scraper - INFO - Found 199 links.
+2025-11-22 21:39:26,578 - scraper - INFO - Scraping article: https://news.ycombinator.com/front
+2025-11-22 21:39:26,987 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46009660
+2025-11-22 21:39:27,547 - scraper - INFO - Scraping article: https://news.ycombinator.com/newest
+2025-11-22 21:39:27,950 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45901499&goto=news
+2025-11-22 21:39:28,234 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45901499&goto=news: Status 403
+2025-11-22 21:39:28,236 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=lapdhelicoptertracker.com
+2025-11-22 21:39:28,541 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=lapdhelicoptertracker.com: Status 403
+2025-11-22 21:39:28,547 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46008769&goto=news
+2025-11-22 21:39:28,997 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46008769&goto=news: Status 403
+2025-11-22 21:39:28,997 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=monotropism.org
+2025-11-22 21:39:29,207 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=monotropism.org: Status 403
+2025-11-22 21:39:29,211 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45955824&goto=news
+2025-11-22 21:39:29,610 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45955824&goto=news: Status 403
+2025-11-22 21:39:29,611 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45962656&how=up&goto=news
+2025-11-22 21:39:29,832 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45962656&how=up&goto=news: Status 403
+2025-11-22 21:39:29,834 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46013935&how=up&goto=news
+2025-11-22 21:39:30,048 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46013935&how=up&goto=news: Status 403
+2025-11-22 21:39:30,049 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46012328&goto=news
+2025-11-22 21:39:30,256 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46012328&goto=news: Status 403
+2025-11-22 21:39:30,260 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45913432
+2025-11-22 21:39:30,519 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45926371&how=up&goto=news
+2025-11-22 21:39:31,152 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45926371&how=up&goto=news: Status 403
+2025-11-22 21:39:31,153 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46006082&how=up&goto=news
+2025-11-22 21:39:31,378 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46006082&how=up&goto=news: Status 403
+2025-11-22 21:39:31,379 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46008769&how=up&goto=news
+2025-11-22 21:39:31,601 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46008769&how=up&goto=news: Status 403
+2025-11-22 21:39:31,609 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45934619
+2025-11-22 21:39:33,278 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45950797
+2025-11-22 21:39:33,539 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46013900&how=up&goto=news
+2025-11-22 21:39:34,264 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46013900&how=up&goto=news: Status 403
+2025-11-22 21:39:34,265 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=csa-iot.org
+2025-11-22 21:39:34,576 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=csa-iot.org: Status 403
+2025-11-22 21:39:34,577 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=tuxedocomputers.com
+2025-11-22 21:39:35,165 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=tuxedocomputers.com: Status 403
+2025-11-22 21:39:35,166 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45926371&goto=news
+2025-11-22 21:39:35,394 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45926371&goto=news: Status 403
+2025-11-22 21:39:35,395 - scraper - INFO - Scraping article: https://news.ycombinator.com/
+2025-11-22 21:39:35,787 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46005111&how=up&goto=news
+2025-11-22 21:39:36,693 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46005111&how=up&goto=news: Status 403
+2025-11-22 21:39:36,694 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45969398&goto=news
+2025-11-22 21:39:37,913 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45969398&goto=news: Status 403
+2025-11-22 21:39:37,915 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=stevejobsarchive.com
+2025-11-22 21:39:38,507 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=stevejobsarchive.com: Status 403
+2025-11-22 21:39:38,508 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46009660&how=up&goto=news
+2025-11-22 21:39:39,223 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46009660&how=up&goto=news: Status 403
+2025-11-22 21:39:39,224 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46011978&how=up&goto=news
+2025-11-22 21:39:39,692 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46011978&how=up&goto=news: Status 403
+2025-11-22 21:39:39,693 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45950797&how=up&goto=news
+2025-11-22 21:39:39,941 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45950797&how=up&goto=news: Status 403
+2025-11-22 21:39:39,942 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46006616&goto=news
+2025-11-22 21:39:40,174 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46006616&goto=news: Status 403
+2025-11-22 21:39:40,175 - scraper - INFO - Scraping article: https://news.ycombinator.com/ask
+2025-11-22 21:39:40,471 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=skoredin.pro
+2025-11-22 21:39:40,694 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=skoredin.pro: Status 403
+2025-11-22 21:39:40,695 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45901499&how=up&goto=news
+2025-11-22 21:39:40,913 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45901499&how=up&goto=news: Status 403
+2025-11-22 21:39:40,914 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=futurefonts.com
+2025-11-22 21:39:41,132 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=futurefonts.com: Status 403
+2025-11-22 21:39:41,133 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45901499
+2025-11-22 21:39:41,509 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46005388&goto=news
+2025-11-22 21:39:42,825 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46005388&goto=news: Status 403
+2025-11-22 21:39:42,826 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=scienceclock.com
+2025-11-22 21:39:43,141 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=scienceclock.com: Status 403
+2025-11-22 21:39:43,142 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46009056&goto=news
+2025-11-22 21:39:43,359 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46009056&goto=news: Status 403
+2025-11-22 21:39:43,360 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46013960&how=up&goto=news
+2025-11-22 21:39:43,577 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46013960&how=up&goto=news: Status 403
+2025-11-22 21:39:43,579 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46010329&goto=news
+2025-11-22 21:39:43,809 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46010329&goto=news: Status 403
+2025-11-22 21:39:43,810 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45962656&goto=news
+2025-11-22 21:39:44,043 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45962656&goto=news: Status 403
+2025-11-22 21:39:44,043 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=jslegenddev.substack.com
+2025-11-22 21:39:44,467 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=jslegenddev.substack.com: Status 403
+2025-11-22 21:39:44,469 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=stratechery.com
+2025-11-22 21:39:44,691 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=stratechery.com: Status 403
+2025-11-22 21:39:44,692 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45913432&goto=news
+2025-11-22 21:39:44,924 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45913432&goto=news: Status 403
+2025-11-22 21:39:44,925 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46010329&how=up&goto=news
+2025-11-22 21:39:45,146 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46010329&how=up&goto=news: Status 403
+2025-11-22 21:39:45,147 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46009660&goto=news
+2025-11-22 21:39:45,374 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46009660&goto=news: Status 403
+2025-11-22 21:39:45,375 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45938005
+2025-11-22 21:39:45,668 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=lithub.com
+2025-11-22 21:39:45,896 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=lithub.com: Status 403
+2025-11-22 21:39:45,897 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45969398
+2025-11-22 21:39:46,297 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=thecretefleet.com
+2025-11-22 21:39:46,522 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=thecretefleet.com: Status 403
+2025-11-22 21:39:46,523 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45934619&goto=news
+2025-11-22 21:39:46,746 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45934619&goto=news: Status 403
+2025-11-22 21:39:46,748 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45969398&how=up&goto=news
+2025-11-22 21:39:46,976 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45969398&how=up&goto=news: Status 403
+2025-11-22 21:39:46,977 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46006016&goto=news
+2025-11-22 21:39:47,202 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46006016&goto=news: Status 403
+2025-11-22 21:39:47,204 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46005388&how=up&goto=news
+2025-11-22 21:39:47,426 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46005388&how=up&goto=news: Status 403
+2025-11-22 21:39:47,428 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46011978&goto=news
+2025-11-22 21:39:47,647 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46011978&goto=news: Status 403
+2025-11-22 21:39:47,648 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45936776
+2025-11-22 21:39:47,894 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46013900
+2025-11-22 21:39:48,141 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45936776&how=up&goto=news
+2025-11-22 21:39:48,710 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45936776&how=up&goto=news: Status 403
+2025-11-22 21:39:48,711 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46008156&goto=news
+2025-11-22 21:39:49,213 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46008156&goto=news: Status 403
+2025-11-22 21:39:49,214 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46005388
+2025-11-22 21:39:50,243 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=yossarian.net
+2025-11-22 21:39:50,470 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=yossarian.net: Status 403
+2025-11-22 21:39:50,471 - scraper - INFO - Scraping article: https://news.ycombinator.com/newcomments
+2025-11-22 21:39:50,881 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=wealthfolio.app
+2025-11-22 21:39:51,179 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=wealthfolio.app: Status 403
+2025-11-22 21:39:51,181 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46010806
+2025-11-22 21:39:51,402 - scraper - WARNING - Failed to load https://news.ycombinator.com/item?id=46010806: Status 403
+2025-11-22 21:39:51,405 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46009894&how=up&goto=news
+2025-11-22 21:39:51,624 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46009894&how=up&goto=news: Status 403
+2025-11-22 21:39:51,625 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=arstechnica.com
+2025-11-22 21:39:51,901 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=arstechnica.com: Status 403
+2025-11-22 21:39:51,902 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=popularmechanics.com
+2025-11-22 21:39:52,121 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=popularmechanics.com: Status 403
+2025-11-22 21:39:52,123 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45936776&goto=news
+2025-11-22 21:39:52,637 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45936776&goto=news: Status 403
+2025-11-22 21:39:52,638 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46012328
+2025-11-22 21:39:53,446 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=cdn.openai.com
+2025-11-22 21:39:53,699 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=cdn.openai.com: Status 403
+2025-11-22 21:39:53,700 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=igalia.com
+2025-11-22 21:39:53,921 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=igalia.com: Status 403
+2025-11-22 21:39:53,922 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46005111&goto=news
+2025-11-22 21:39:54,248 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46005111&goto=news: Status 403
+2025-11-22 21:39:54,250 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46009056&how=up&goto=news
+2025-11-22 21:39:54,470 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46009056&how=up&goto=news: Status 403
+2025-11-22 21:39:54,471 - scraper - INFO - Scraping article: https://news.ycombinator.com/show
+2025-11-22 21:39:54,915 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46009894
+2025-11-22 21:39:56,436 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46006616
+2025-11-22 21:39:57,661 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46012328&how=up&goto=news
+2025-11-22 21:39:57,887 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46012328&how=up&goto=news: Status 403
+2025-11-22 21:39:57,888 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46010329
+2025-11-22 21:39:58,107 - scraper - WARNING - Failed to load https://news.ycombinator.com/item?id=46010329: Status 403
+2025-11-22 21:39:58,108 - scraper - INFO - Scraping article: https://news.ycombinator.com/jobs
+2025-11-22 21:39:58,439 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45938005&how=up&goto=news
+2025-11-22 21:39:58,659 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45938005&how=up&goto=news: Status 403
+2025-11-22 21:39:58,660 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=pocoo.org
+2025-11-22 21:39:58,887 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=pocoo.org: Status 403
+2025-11-22 21:39:58,888 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=rice.edu
+2025-11-22 21:39:59,126 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=rice.edu: Status 403
+2025-11-22 21:39:59,127 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45892123&goto=news
+2025-11-22 21:39:59,590 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45892123&goto=news: Status 403
+2025-11-22 21:39:59,591 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45938005&goto=news
+2025-11-22 21:40:00,114 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45938005&goto=news: Status 403
+2025-11-22 21:40:00,120 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45892123
+2025-11-22 21:40:00,412 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46009591&how=up&goto=news
+2025-11-22 21:40:00,728 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46009591&how=up&goto=news: Status 403
+2025-11-22 21:40:00,729 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46009591
+2025-11-22 21:40:01,339 - scraper - WARNING - Failed to load https://news.ycombinator.com/item?id=46009591: Status 403
+2025-11-22 21:40:01,340 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46005111
+2025-11-22 21:40:02,844 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=bbc.com
+2025-11-22 21:40:03,068 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=bbc.com: Status 403
+2025-11-22 21:40:03,069 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45927520&how=up&goto=news
+2025-11-22 21:40:03,291 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45927520&how=up&goto=news: Status 403
+2025-11-22 21:40:03,292 - scraper - INFO - Scraping article: https://news.ycombinator.com/submit
+2025-11-22 21:40:03,510 - scraper - WARNING - Failed to load https://news.ycombinator.com/submit: Status 403
+2025-11-22 21:40:03,511 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46006616&how=up&goto=news
+2025-11-22 21:40:03,813 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46006616&how=up&goto=news: Status 403
+2025-11-22 21:40:03,815 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46013960&goto=news
+2025-11-22 21:40:04,036 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46013960&goto=news: Status 403
+2025-11-22 21:40:04,037 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=disassociated.com
+2025-11-22 21:40:04,259 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=disassociated.com: Status 403
+2025-11-22 21:40:04,260 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46006082&goto=news
+2025-11-22 21:40:04,505 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46006082&goto=news: Status 403
+2025-11-22 21:40:04,506 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46010806&goto=news
+2025-11-22 21:40:04,724 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46010806&goto=news: Status 403
+2025-11-22 21:40:04,726 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46009056
+2025-11-22 21:40:05,168 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45892123&how=up&goto=news
+2025-11-22 21:40:05,389 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45892123&how=up&goto=news: Status 403
+2025-11-22 21:40:05,389 - scraper - INFO - Scraping article: https://news.ycombinator.com/?p=2
+2025-11-22 21:40:05,769 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45927520
+2025-11-22 21:40:06,476 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46008156&how=up&goto=news
+2025-11-22 21:40:06,698 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46008156&how=up&goto=news: Status 403
+2025-11-22 21:40:06,699 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45955824
+2025-11-22 21:40:07,682 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=dynomight.net
+2025-11-22 21:40:07,908 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=dynomight.net: Status 403
+2025-11-22 21:40:07,909 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46006082
+2025-11-22 21:40:08,596 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46013960
+2025-11-22 21:40:08,885 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=nautil.us
+2025-11-22 21:40:09,104 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=nautil.us: Status 403
+2025-11-22 21:40:09,105 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=datameister.ai
+2025-11-22 21:40:09,523 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=datameister.ai: Status 403
+2025-11-22 21:40:09,524 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45950797&goto=news
+2025-11-22 21:40:09,987 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45950797&goto=news: Status 403
+2025-11-22 21:40:09,989 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46009894&goto=news
+2025-11-22 21:40:10,664 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46009894&goto=news: Status 403
+2025-11-22 21:40:10,665 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46008156
+2025-11-22 21:40:11,346 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46010806&how=up&goto=news
+2025-11-22 21:40:13,307 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46010806&how=up&goto=news: Status 403
+2025-11-22 21:40:13,308 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=mathenchant.wordpress.com
+2025-11-22 21:40:14,646 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=mathenchant.wordpress.com: Status 403
+2025-11-22 21:40:14,647 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=awsistoohard.com
+2025-11-22 21:40:15,374 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=awsistoohard.com: Status 403
+2025-11-22 21:40:15,376 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=edw.is
+2025-11-22 21:40:15,601 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=edw.is: Status 403
+2025-11-22 21:40:15,602 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46008769
+2025-11-22 21:40:15,877 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45962656
+2025-11-22 21:40:16,224 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45913432&how=up&goto=news
+2025-11-22 21:40:16,445 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45913432&how=up&goto=news: Status 403
+2025-11-22 21:40:16,447 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46013900&goto=news
+2025-11-22 21:40:16,680 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46013900&goto=news: Status 403
+2025-11-22 21:40:16,681 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=45926371
+2025-11-22 21:40:16,930 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=arduino.cc
+2025-11-22 21:40:17,150 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=arduino.cc: Status 403
+2025-11-22 21:40:17,152 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=45927520&goto=news
+2025-11-22 21:40:17,372 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=45927520&goto=news: Status 403
+2025-11-22 21:40:17,374 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46009591&goto=news
+2025-11-22 21:40:17,608 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46009591&goto=news: Status 403
+2025-11-22 21:40:17,609 - scraper - INFO - Scraping article: https://news.ycombinator.com/news
+2025-11-22 21:40:18,017 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=46006016&how=up&goto=news
+2025-11-22 21:40:18,277 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=46006016&how=up&goto=news: Status 403
+2025-11-22 21:40:18,279 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45934619&how=up&goto=news
+2025-11-22 21:40:18,613 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45934619&how=up&goto=news: Status 403
+2025-11-22 21:40:18,616 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46011978
+2025-11-22 21:40:19,004 - scraper - INFO - Scraping article: https://news.ycombinator.com/hide?id=46013935&goto=news
+2025-11-22 21:40:19,221 - scraper - WARNING - Failed to load https://news.ycombinator.com/hide?id=46013935&goto=news: Status 403
+2025-11-22 21:40:19,222 - scraper - INFO - Scraping article: https://news.ycombinator.com/vote?id=45955824&how=up&goto=news
+2025-11-22 21:40:19,441 - scraper - WARNING - Failed to load https://news.ycombinator.com/vote?id=45955824&how=up&goto=news: Status 403
+2025-11-22 21:40:19,442 - scraper - INFO - Scraping article: https://news.ycombinator.com/from?site=buysellram.com
+2025-11-22 21:40:19,670 - scraper - WARNING - Failed to load https://news.ycombinator.com/from?site=buysellram.com: Status 403
+2025-11-22 21:40:19,671 - scraper - INFO - Scraping article: https://news.ycombinator.com/item?id=46013935
+2025-11-22 21:40:19,924 - scraper - INFO - Scraping finished for Hacker News. Added 0 new articles.
+2025-11-22 21:40:21,245 - scraper - INFO - Navigating to http://this-domain-does-not-exist-12345.com...
+2025-11-22 21:40:21,275 - scraper - ERROR - Error navigating to http://this-domain-does-not-exist-12345.com: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://this-domain-does-not-exist-12345.com/
+Call log:
+  - navigating to "http://this-domain-does-not-exist-12345.com/", waiting until "domcontentloaded"
+
+2025-11-22 21:40:22,172 - scraper - INFO - Navigating to https://www.thestar.com.my/...
+2025-11-22 21:40:24,016 - scraper - INFO - Found 262 links.
+2025-11-22 21:40:24,019 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/singapore
+2025-11-22 21:40:26,402 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football/2025/11/22/soccer-scotland-fans-made-the-earth-move-in-defeat-of-denmark
+2025-11-22 21:40:28,520 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks
+2025-11-22 21:40:30,010 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/living
+2025-11-22 21:40:32,047 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/former-south-korean-president-yoon-indicted-on-allegations-over-cover-up-of-marines-death
+2025-11-22 21:40:34,152 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/say-what
+2025-11-22 21:40:36,529 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/regional/
+2025-11-22 21:40:38,209 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/focus
+2025-11-22 21:40:39,173 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/metro-news
+2025-11-22 21:40:40,325 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/sabah-polls-bn039s-tanjong-kapor-candidate-known-for-dedication-to-the-community-says-dr-wee
+2025-11-22 21:40:42,506 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton
+2025-11-22 21:40:43,132 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/tennis
+2025-11-22 21:40:44,156 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters
+2025-11-22 21:40:45,197 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/laos
+2025-11-22 21:40:49,728 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/sabah+%26+sarawak
+2025-11-22 21:40:51,015 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/athletics
+2025-11-22 21:40:51,987 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world
+2025-11-22 21:40:53,057 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Sabah+&+Sarawak
+2025-11-22 21:40:54,259 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/wellness
+2025-11-22 21:40:55,526 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/health/2025/11/22/prevent-heart-disease-by-getting-these-checked
+2025-11-22 21:40:57,764 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech/tech-news/2025/11/22/039youre-so-lucky-im-with-you039-is-the-trump-musk-feud-finally-over
+2025-11-22 21:40:59,601 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/true-or-not/
+2025-11-22 21:41:00,706 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/hockey/2025/11/22/malaysia-out-to-settle-score-with-new-zealand-in-sultan-azlan-shah-cup-opener
+2025-11-22 21:41:03,364 - scraper - INFO - Scraping article: https://www.thestar.com.my/Opinion/
+2025-11-22 21:41:04,459 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton/2025/11/21/kento-momota-hints-at-comeback
+2025-11-22 21:41:06,554 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/business-news/2025/11/22/when-investor-darlings-lose-their-shine
+2025-11-22 21:41:08,452 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/latest/
+2025-11-22 21:41:09,471 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport
+2025-11-22 21:41:11,001 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Bonus
+2025-11-22 21:41:11,758 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/exchange-rates
+2025-11-22 21:41:13,376 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Tariff+Wars
+2025-11-22 21:41:15,837 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/say-what/sports-box?bycat=609_1605776128
+2025-11-22 21:41:18,428 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech/tech-thoughts
+2025-11-22 21:41:20,135 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/views/citycism?bycat=679_1670639330
+2025-11-22 21:41:21,493 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/short+position
+2025-11-22 21:41:22,467 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/eating-out
+2025-11-22 21:41:23,682 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/
+2025-11-22 21:41:24,622 - scraper - INFO - Scraping article: https://www.thestar.com.my/foryou
+2025-11-22 21:41:25,792 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus
+2025-11-22 21:41:27,429 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Stock-List
+2025-11-22 21:41:28,355 - scraper - INFO - Scraping article: https://www.thestar.com.my/esg/
+2025-11-22 21:41:30,322 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/marketwatch
+2025-11-22 21:41:31,646 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation
+2025-11-22 21:41:32,678 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news
+2025-11-22 21:41:33,799 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/environment
+2025-11-22 21:41:35,650 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/technology
+2025-11-22 21:41:37,087 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/malaysians-advised-to-postpone-trips-to-southern-thailand-amid-severe-flooding
+2025-11-22 21:41:39,610 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion
+2025-11-22 21:41:40,402 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/chinese-star-fan-bingbing-eyes-taiwan-top-film-award
+2025-11-22 21:41:42,950 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight
+2025-11-22 21:41:44,986 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/air-force-chief-reviews-progress-of-fa-18-hornet-assessment-in-kuwait
+2025-11-22 21:41:47,181 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world/2025/11/22/cop30-talks-grind-into-overtime-as-eu-objects-to-proposed-deal
+2025-11-22 21:41:49,090 - scraper - INFO - Scraping article: https://www.thestar.com.my/edufund
+2025-11-22 21:41:50,091 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-for-thought
+2025-11-22 21:41:54,532 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Sabah+%26+Sarawak
+2025-11-22 21:41:55,786 - scraper - INFO - Scraping article: https://www.thestar.com.my/#
+2025-11-22 21:41:58,370 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football
+2025-11-22 21:41:59,396 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football/
+2025-11-22 21:42:00,445 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/myanmar-needs-to-fix-power-supply-and-infrastructure-to-revive-its-tourism-sector-says-amro
+2025-11-22 21:42:02,550 - scraper - INFO - Scraping article: https://www.thestar.com.my/saved-articles
+2025-11-22 21:42:06,348 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/focus/2025/11/09/a-different-lens-on-disasters
+2025-11-22 21:42:08,853 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/russian-father-urges-better-beach-safety-after-son-dies-from-jellyfish-sting
+2025-11-22 21:42:11,339 - scraper - INFO - Scraping article: https://www.thestar.com.my/
+2025-11-22 21:42:15,344 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world/
+2025-11-22 21:42:16,189 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Middle+East+Conflict
+2025-11-22 21:42:18,738 - scraper - INFO - Scraping article: https://www.thestar.com.my/asean2025
+2025-11-22 21:42:19,807 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/six-states-told-to-prepare-for-possible-disasters-after-continuous-rain-forecast
+2025-11-22 21:42:22,187 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/federal-sabah-dialogue-the-best-way-forward-to-honour-40-entitlement-says-deputy-minister
+2025-11-22 21:42:24,732 - scraper - INFO - Scraping article: https://www.thestar.com.my/faqs/
+2025-11-22 21:42:26,090 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/two-young-boys-die-after-being-struck-by-car-in-yan
+2025-11-22 21:42:28,167 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/hockey
+2025-11-22 21:42:29,347 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/views
+2025-11-22 21:42:31,765 - scraper - INFO - Navigating to https://news.ycombinator.com/...
+2025-11-22 21:42:32,167 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/viewpoints
+2025-11-22 21:42:32,813 - scraper - INFO - Found 199 links.
+2025-11-22 21:42:32,820 - scraper - INFO - Scraping article: https://www.awsistoohard.com/blog/self-hosting-nat-gateway
+2025-11-22 21:42:33,681 - scraper - INFO - Scraping article: https://news.ycombinator.com/ask
+2025-11-22 21:42:34,337 - scraper - INFO - Scraping article: https://mathenchant.wordpress.com/2025/11/21/is-matrix-multiplication-ugly/
+2025-11-22 21:42:35,652 - scraper - INFO - Scraping article: https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model
+2025-11-22 21:42:36,368 - scraper - WARNING - Failed to load https://news.rice.edu/news/2025/sharper-mri-scans-may-be-horizon-thanks-new-physics-based-model: Status 406
+2025-11-22 21:42:36,378 - scraper - INFO - Scraping article: https://lapdhelicoptertracker.com/
+2025-11-22 21:42:36,377 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists
+2025-11-22 21:42:38,211 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/IPO
+2025-11-22 21:42:39,427 - scraper - INFO - Scraping article: https://www.thestar.com.my/do-you-know
+2025-11-22 21:42:42,889 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/tennis/
+2025-11-22 21:42:44,039 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-news/
+2025-11-22 21:42:45,113 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight/2025/11/22/epf-trapped-in-a-small-pond
+2025-11-22 21:42:49,673 - scraper - INFO - Scraping article: https://www.thestar.com.my/food
+2025-11-22 21:42:52,577 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/true-or-not
+2025-11-22 21:42:53,468 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/smebiz
+2025-11-22 21:42:54,485 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/on-your-side/2025/11/21/sweet-killer-stalks-malaysians
+2025-11-22 21:42:56,628 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters/
+2025-11-22 21:42:57,646 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/entertainment-and-style
+2025-11-22 21:42:59,066 - scraper - INFO - Scraping article: https://edw.is/learning-vulkan/
+2025-11-22 21:43:00,107 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/18/expanding-wealth-growth-ambition-with-new-wealth-centre-in-johor?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=HSBC+18Nov25
+2025-11-22 21:43:02,869 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Financial-Results
+2025-11-22 21:43:03,988 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/cambodia
+2025-11-22 21:43:04,947 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-news
+2025-11-22 21:43:06,077 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/
+2025-11-22 21:43:07,353 - scraper - INFO - Scraping article: https://jslegenddev.substack.com/p/you-can-now-make-ps2-games-in-javascript
+2025-11-22 21:43:08,430 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/17/new-ways-to-wander?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=Travel+Corp+17Nov25
+2025-11-22 21:43:10,031 - scraper - INFO - Scraping article: https://thecretefleet.com/blog/f/concrete-shipbuilding-%E2%80%93-argentina
+2025-11-22 21:43:10,726 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/vietnam
+2025-11-22 21:43:12,105 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/20/bumiputera-firms-win-56-of-uem-edgenta-contracts?utm_medium=thestar&utm_source=rosnawidget&utm_campaign=UEM+20Nov25
+2025-11-22 21:43:12,695 - scraper - INFO - Scraping article: https://www.ycombinator.com/apply/
+2025-11-22 21:43:15,112 - scraper - INFO - Scraping article: https://news.ycombinator.com/front
+2025-11-22 21:43:15,594 - scraper - INFO - Scraping article: https://www.thestar.com.my/faqs
+2025-11-22 21:43:16,295 - scraper - INFO - Scraping article: https://scienceclock.com/moss-survives-9-months-in-space-vacuum/
+2025-11-22 21:43:17,078 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/sabah-polls-zahid-tells-bn-candidates-to-uphold-people039s-trust-avoid-past-mistakes
+2025-11-22 21:43:19,495 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/on-a-shared-future/2025/11/21/who-won-the-trade-wars
+2025-11-22 21:43:19,770 - scraper - INFO - Scraping article: https://blog.datameister.ai/detection-transformers-real-time-object-detection
+2025-11-22 21:43:21,614 - scraper - INFO - Scraping article: https://github.com/HackerNews/API
+2025-11-22 21:43:23,566 - scraper - INFO - Scraping article: https://www.thestar.com.my/education
+2025-11-22 21:43:24,854 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/philippines
+2025-11-22 21:43:25,327 - scraper - INFO - Scraping article: https://lucumr.pocoo.org/2025/11/21/agents-are-hard/
+2025-11-22 21:43:25,910 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/health-and-family
+2025-11-22 21:43:25,946 - scraper - INFO - Scraping article: https://disassociated.com/personal-blogs-back-niche-blogs-next/
+2025-11-22 21:43:27,624 - scraper - INFO - Scraping article: https://news.ycombinator.com/newest
+2025-11-22 21:43:28,809 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/singaporean-in-us-illegal-trading-probe-bought-rm625000-watch-while-allegedly-working-with-criminal-group
+2025-11-22 21:43:28,923 - scraper - INFO - Scraping article: https://skoredin.pro/blog/golang/event-sourcing-go
+2025-11-22 21:43:31,121 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/europe
+2025-11-22 21:43:31,207 - scraper - INFO - Scraping article: https://nautil.us/childhood-friends-not-moms-shape-attachment-styles-most-1247316/
+2025-11-22 21:43:32,953 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight/
+2025-11-22 21:43:33,914 - scraper - INFO - Scraping article: https://monotropism.org/adhd/
+2025-11-22 21:43:36,152 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/analysis?bycat=423_1565003109
+2025-11-22 21:43:38,523 - scraper - INFO - Scraping article: https://www.thestar.com.my/news
+2025-11-22 21:43:40,877 - scraper - INFO - Scraping article: https://www.thestar.com.my/education/news
+2025-11-22 21:43:41,343 - scraper - INFO - Scraping article: https://www.tuxedocomputers.com/en/Discontinuation-of-ARM-notebooks-with-Snapdragon-X-Elite-SoC.tuxedo
+2025-11-22 21:43:41,834 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/sabah+elections
+2025-11-22 21:43:44,298 - scraper - INFO - Scraping article: https://www.buysellram.com/blog/samsungs-memory-price-surge-sends-shockwaves-through-the-global-dram-market/
+2025-11-22 21:43:45,100 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/people-and-living
+2025-11-22 21:43:45,726 - scraper - INFO - Scraping article: https://lithub.com/how-the-discovery-of-single-celled-marine-organisms-resulted-in-one-of-the-most-influential-illustrated-books-ever-published/
+2025-11-22 21:43:47,819 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/latest
+2025-11-22 21:43:49,666 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage
+2025-11-22 21:43:52,573 - scraper - INFO - Scraping article: https://news.ycombinator.com/jobs
+2025-11-22 21:43:52,926 - scraper - ERROR - Failed to scrape https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage: (sqlite3.IntegrityError) UNIQUE constraint failed: articles.url
+[SQL: INSERT INTO articles (title, url, content, summary, sentiment, sentiment_score, published_date, scraped_date, source_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Philippine police deployed to arrest 18 suspects in a corruption scandal that has sparked outrage', 'https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (305 characters truncated) ... e or non-existent flood control projects in a poverty-stricken country, long prone to deadly typhoons, flooding and extreme weather in tropical Asia.', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (207 characters truncated) ...  quell public outrage over the massive corruption, which has been blamed for substandard, defective or non-existent flood control projects in a po...', 'Neutral', -0.09421296296296298, '2025-11-22 13:43:52.924545', '2025-11-22 13:43:52.924545', 3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+2025-11-22 21:43:53,264 - __main__ - ERROR - CRITICAL FAILURE for the star: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (sqlite3.IntegrityError) UNIQUE constraint failed: articles.url
+[SQL: INSERT INTO articles (title, url, content, summary, sentiment, sentiment_score, published_date, scraped_date, source_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Philippine police deployed to arrest 18 suspects in a corruption scandal that has sparked outrage', 'https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (305 characters truncated) ... e or non-existent flood control projects in a poverty-stricken country, long prone to deadly typhoons, flooding and extreme weather in tropical Asia.', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (207 characters truncated) ...  quell public outrage over the massive corruption, which has been blamed for substandard, defective or non-existent flood control projects in a po...', 'Neutral', -0.09421296296296298, '2025-11-22 13:43:52.924545', '2025-11-22 13:43:52.924545', 3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) (Background on this error at: https://sqlalche.me/e/20/7s2a)
+Traceback (most recent call last):
+  File "C:\Drive (D)\2025\Projects\anti-grav\scraper.py", line 114, in scrape_source
+    for link in unique_links:
+           ^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 569, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 1096, in get
+    value = self._fire_loader_callables(state, key, passive)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 1126, in _fire_loader_callables
+    return state._load_expired(state, passive)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\state.py", line 803, in _load_expired
+    self.manager.expired_attribute_loader(self, toload, passive)
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 1674, in load_scalar_attributes
+    result = load_on_ident(
+             ^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 510, in load_on_ident
+    return load_on_pk_identity(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 695, in load_on_pk_identity
+    session.execute(
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\state_changes.py", line 101, in _go
+    self._raise_for_prerequisite_state(fn.__name__, current_state)
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 971, in _raise_for_prerequisite_state
+    raise sa_exc.PendingRollbackError(
+sqlalchemy.exc.PendingRollbackError: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (sqlite3.IntegrityError) UNIQUE constraint failed: articles.url
+[SQL: INSERT INTO articles (title, url, content, summary, sentiment, sentiment_score, published_date, scraped_date, source_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Philippine police deployed to arrest 18 suspects in a corruption scandal that has sparked outrage', 'https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (305 characters truncated) ... e or non-existent flood control projects in a poverty-stricken country, long prone to deadly typhoons, flooding and extreme weather in tropical Asia.', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (207 characters truncated) ...  quell public outrage over the massive corruption, which has been blamed for substandard, defective or non-existent flood control projects in a po...', 'Neutral', -0.09421296296296298, '2025-11-22 13:43:52.924545', '2025-11-22 13:43:52.924545', 3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) (Background on this error at: https://sqlalche.me/e/20/7s2a)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Drive (D)\2025\Projects\anti-grav\debug_scraper.py", line 29, in debug_scraper
+    scraper.scrape_source(source.id)
+  File "C:\Drive (D)\2025\Projects\anti-grav\scraper.py", line 158, in scrape_source
+    continue
+             
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 569, in __get__
+    return self.impl.get(state, dict_)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 1096, in get
+    value = self._fire_loader_callables(state, key, passive)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\attributes.py", line 1126, in _fire_loader_callables
+    return state._load_expired(state, passive)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\state.py", line 803, in _load_expired
+    self.manager.expired_attribute_loader(self, toload, passive)
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 1674, in load_scalar_attributes
+    result = load_on_ident(
+             ^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 510, in load_on_ident
+    return load_on_pk_identity(
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\loading.py", line 695, in load_on_pk_identity
+    session.execute(
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2351, in execute
+    return self._execute_internal(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2239, in _execute_internal
+    conn = self._connection_for_bind(bind)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 2108, in _connection_for_bind
+    return trans._connection_for_bind(engine, execution_options)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 2, in _connection_for_bind
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\state_changes.py", line 101, in _go
+    self._raise_for_prerequisite_state(fn.__name__, current_state)
+  File "C:\Users\faisa\AppData\Roaming\Python\Python312\site-packages\sqlalchemy\orm\session.py", line 971, in _raise_for_prerequisite_state
+    raise sa_exc.PendingRollbackError(
+sqlalchemy.exc.PendingRollbackError: This Session's transaction has been rolled back due to a previous exception during flush. To begin a new transaction with this Session, first issue Session.rollback(). Original exception was: (sqlite3.IntegrityError) UNIQUE constraint failed: articles.url
+[SQL: INSERT INTO articles (title, url, content, summary, sentiment, sentiment_score, published_date, scraped_date, source_id) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: ('Philippine police deployed to arrest 18 suspects in a corruption scandal that has sparked outrage', 'https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (305 characters truncated) ... e or non-existent flood control projects in a poverty-stricken country, long prone to deadly typhoons, flooding and extreme weather in tropical Asia.', 'MANILA, Philippines (AP) - Philippine police and other law enforcement teams were deployed to arrest 18 suspects in a corruption scandal involving fl ... (207 characters truncated) ...  quell public outrage over the massive corruption, which has been blamed for substandard, defective or non-existent flood control projects in a po...', 'Neutral', -0.09421296296296298, '2025-11-22 13:43:52.924545', '2025-11-22 13:43:52.924545', 3)]
+(Background on this error at: https://sqlalche.me/e/20/gkpj) (Background on this error at: https://sqlalche.me/e/20/7s2a)
+2025-11-22 21:43:54,268 - scraper - INFO - Scraping article: https://news.ycombinator.com/?p=2
+2025-11-22 21:43:54,795 - scraper - INFO - Scraping article: https://news.ycombinator.com/
+2025-11-22 21:43:55,256 - scraper - INFO - Scraping article: https://www.igalia.com/2025/11/helpingvalve.html
+2025-11-22 21:43:57,407 - scraper - INFO - Scraping article: https://blog.yossarian.net/2025/11/21/We-should-all-be-using-dependency-cooldowns
+2025-11-22 21:43:58,280 - scraper - INFO - Scraping article: https://csa-iot.org/newsroom/the-connectivity-standards-alliance-announces-zigbee-4-0-and-suzi-empowering-the-next-generation-of-secure-interoperable-iot-devices/
+2025-11-22 21:43:59,699 - scraper - INFO - Scraping article: https://news.ycombinator.com/show
+2025-11-22 21:44:00,265 - scraper - INFO - Scraping article: https://arstechnica.com/space/2025/11/the-twin-probes-just-launched-toward-mars-have-an-easter-egg-on-board/
+2025-11-22 21:44:02,637 - scraper - INFO - Scraping article: https://stevejobsarchive.com/stories/pixar-early-days
+2025-11-22 21:44:03,532 - scraper - INFO - Scraping article: https://www.ycombinator.com/legal/
+2025-11-22 21:44:04,823 - scraper - INFO - Scraping article: https://www.bbc.com/news/articles/c8e9rp0knj6o
+2025-11-22 21:44:05,999 - scraper - INFO - Scraping article: https://wealthfolio.app/?v=2.0
+2025-11-22 21:44:06,466 - scraper - INFO - Scraping article: https://www.popularmechanics.com/science/energy/a69147321/kodak-film-nuclear-reactor/
+2025-11-22 21:44:08,337 - scraper - INFO - Scraping article: https://news.ycombinator.com/newcomments
+2025-11-22 21:44:08,856 - scraper - INFO - Scraping article: https://dynomight.net/worse/
+2025-11-22 21:44:09,530 - scraper - INFO - Scraping article: https://news.ycombinator.com/news
+2025-11-22 21:44:10,124 - scraper - INFO - Scraping finished for Hacker News. Added 26 new articles.
+2025-11-22 21:44:11,840 - scraper - INFO - Navigating to http://this-domain-does-not-exist-12345.com...
+2025-11-22 21:44:11,892 - scraper - ERROR - Error navigating to http://this-domain-does-not-exist-12345.com: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://this-domain-does-not-exist-12345.com/
+Call log:
+  - navigating to "http://this-domain-does-not-exist-12345.com/", waiting until "domcontentloaded"
+
+2025-11-22 21:44:13,477 - scraper - INFO - Navigating to https://www.thestar.com.my/...
+2025-11-22 21:44:15,565 - scraper - INFO - Found 245 links.
+2025-11-22 21:44:15,569 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/eating-out
+2025-11-22 21:44:16,251 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks
+2025-11-22 21:44:17,532 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/cambodia
+2025-11-22 21:44:18,444 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus
+2025-11-22 21:44:19,844 - scraper - INFO - Scraping article: https://www.thestar.com.my/esg
+2025-11-22 21:44:21,551 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/true-or-not
+2025-11-22 21:44:22,629 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight
+2025-11-22 21:44:24,029 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/views
+2025-11-22 21:44:28,184 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/living
+2025-11-22 21:44:29,278 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/in-other-media
+2025-11-22 21:44:30,362 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world
+2025-11-22 21:44:31,436 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/regional/
+2025-11-22 21:44:33,568 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football/
+2025-11-22 21:44:34,543 - scraper - INFO - Scraping article: https://www.thestar.com.my/education/news
+2025-11-22 21:44:35,631 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/laos
+2025-11-22 21:44:36,548 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/16-year-old-charged-after-public-place-shooting-in-western-sydney
+2025-11-22 21:44:39,042 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/focus
+2025-11-22 21:44:40,285 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion
+2025-11-22 21:44:41,519 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news
+2025-11-22 21:44:42,489 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/environment
+2025-11-22 21:44:43,583 - scraper - INFO - Scraping article: https://www.thestar.com.my/asean2025
+2025-11-22 21:44:44,523 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/motorsport
+2025-11-22 21:44:45,656 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/wellness
+2025-11-22 21:44:46,979 - scraper - INFO - Scraping article: https://www.thestar.com.my/foryou
+2025-11-22 21:44:48,052 - scraper - INFO - Scraping article: https://www.thestar.com.my/#in-story
+2025-11-22 21:44:50,969 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/views/citycism?bycat=679_1670639330
+2025-11-22 21:44:52,011 - scraper - INFO - Scraping article: https://www.thestar.com.my/food
+2025-11-22 21:44:55,773 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/viewpoints
+2025-11-22 21:44:58,586 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists
+2025-11-22 21:45:00,569 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/say-what/sports-box?bycat=609_1605776128
+2025-11-22 21:45:03,929 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Financial-Results
+2025-11-22 21:45:05,038 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech
+2025-11-22 21:45:06,421 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/on-your-side?bycat=378_1564146416
+2025-11-22 21:45:08,737 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Dividends
+2025-11-22 21:45:09,792 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/say-what
+2025-11-22 21:45:12,135 - scraper - INFO - Scraping article: https://www.thestar.com.my/do-you-know
+2025-11-22 21:45:13,081 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/sabah+%26+sarawak
+2025-11-22 21:45:14,329 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/tennis
+2025-11-22 21:45:15,699 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/they-do-not-believe-the-system-works
+2025-11-22 21:45:18,369 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters/
+2025-11-22 21:45:19,266 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/checkpoint-chaos-continues-amid-clampdown
+2025-11-22 21:45:21,743 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/
+2025-11-22 21:45:22,556 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech/tech-thoughts
+2025-11-22 21:45:24,538 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Middle+East+Conflict
+2025-11-22 21:45:25,333 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/10/31/all-set-for-north-east-monsoon
+2025-11-22 21:45:27,807 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters
+2025-11-22 21:45:28,672 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/999-emergency-number-still-works-says-dzulkefly
+2025-11-22 21:45:31,667 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Sabah+&+Sarawak
+2025-11-22 21:45:32,489 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/zahid-calls-on-public-to-remain-alert-during-northeast-monsoon
+2025-11-22 21:45:35,031 - scraper - INFO - Scraping article: https://www.thestar.com.my/esg/view-issue/?h=zhjqhnn7t9&utm_source=tsol&utm_medium=digital&utm_campaign=othersitesthumbnail&utm_term=oct&utm_content=esgpullout25
+2025-11-22 21:45:35,900 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/18/expanding-wealth-growth-ambition-with-new-wealth-centre-in-johor?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=HSBC+18Nov25
+2025-11-22 21:45:37,980 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/latest
+2025-11-22 21:45:39,172 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/18/grabrewards-is-now-grabcoins-more-ways-to-earn-and-save?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=Grab+18Nov25
+2025-11-22 21:45:41,267 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/exchange-rates
+2025-11-22 21:45:42,851 - scraper - INFO - Scraping article: https://www.thestar.com.my/esg/
+2025-11-22 21:45:44,739 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football/2025/11/22/soccer-scotland-fans-made-the-earth-move-in-defeat-of-denmark
+2025-11-22 21:45:46,819 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/sabah+elections
+2025-11-22 21:45:48,040 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/philippines
+2025-11-22 21:45:49,180 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/two-young-boys-die-after-being-struck-by-car-in-yan
+2025-11-22 21:45:51,476 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Stock-List
+2025-11-22 21:45:52,365 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/health-and-family
+2025-11-22 21:45:54,885 - scraper - INFO - Scraping article: https://www.thestar.com.my/faqs/
+2025-11-22 21:45:56,468 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/kulasegaran-to-arrange-meeting-between-indira-igp-in-three-weeks-says-support-group-chairman
+2025-11-22 21:45:57,957 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/malaysians-advised-to-postpone-trips-to-southern-thailand-amid-severe-flooding
+2025-11-22 21:45:59,533 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters/2025/11/22/encourage-open-conversations-on-teenage-pregnancy
+2025-11-22 21:46:00,909 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Sabah+%26+Sarawak
+2025-11-22 21:46:02,337 - scraper - INFO - Scraping article: https://www.thestar.com.my/Opinion/
+2025-11-22 21:46:03,673 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/on-a-shared-future?bycat=841_1763014389
+2025-11-22 21:46:05,141 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/20/bumiputera-firms-win-56-of-uem-edgenta-contracts?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=UEM+20Nov25
+2025-11-22 21:46:07,111 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/health/2025/11/22/prevent-heart-disease-by-getting-these-checked
+2025-11-22 21:46:08,879 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/flood-chaos-in-central-vietnam-almost-us350-million-in-economic-losses-thousands-displaced-and-68-confirmed-dead
+2025-11-22 21:46:10,613 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/metro-news/2025/11/21/mbpj-approves-construction-of-two-bungalows-within-24-hours-under-new-initiative
+2025-11-22 21:46:12,663 - scraper - INFO - Scraping article: https://www.thestar.com.my/#must-watch
+2025-11-22 21:46:15,544 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/analysis/2025/11/22/chinese-to-039take-the-boat039-in-sabah-polls
+2025-11-22 21:46:17,323 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle
+2025-11-22 21:46:18,921 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/air-force-chief-reviews-progress-of-fa-18-hornet-assessment-in-kuwait
+2025-11-22 21:46:20,787 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/psych-report-for-school-stabbing-suspect-pending
+2025-11-22 21:46:22,901 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/on-your-side/2025/11/21/sweet-killer-stalks-malaysians
+2025-11-22 21:46:24,637 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/philippine-police-deployed-to-arrest-18-suspects-in-a-corruption-scandal-that-has-sparked-outrage
+2025-11-22 21:46:26,465 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/20/bumiputera-firms-win-56-of-uem-edgenta-contracts?utm_medium=thestar&utm_source=rosnawidget&utm_campaign=UEM+20Nov25
+2025-11-22 21:46:28,744 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/hockey/
+2025-11-22 21:46:29,631 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/social+media
+2025-11-22 21:46:30,513 - scraper - INFO - Scraping article: https://www.thestar.com.my/FAQs
+2025-11-22 21:46:31,618 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/
+2025-11-22 21:46:32,778 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/metro-news
+2025-11-22 21:46:33,764 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/sabah-polls-zahid-tells-bn-candidates-to-uphold-people039s-trust-avoid-past-mistakes
+2025-11-22 21:46:35,624 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro
+2025-11-22 21:46:36,552 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation
+2025-11-22 21:46:37,423 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/marketwatch
+2025-11-22 21:46:38,581 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/IPO
+2025-11-22 21:46:39,475 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/travel-and-culture
+2025-11-22 21:46:41,662 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/17/travel-smarter-not-harder?utm_medium=thestar&utm_source=wpnawidget&utm_campaign=Sompo+17Nov25
+2025-11-22 21:46:43,285 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/myanmar
+2025-11-22 21:46:45,966 - scraper - INFO - Scraping article: https://www.thestar.com.my/metro/metro-news/2025/11/22/puchong-residents-rally-against-proposed-development-next-to-ayer-hitam-forest-reserve
+2025-11-22 21:46:48,786 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/europe
+2025-11-22 21:46:50,203 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/latest/
+2025-11-22 21:46:51,171 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight/2025/11/22/epf-trapped-in-a-small-pond
+2025-11-22 21:46:53,022 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/business-news/2025/11/22/when-investor-darlings-lose-their-shine
+2025-11-22 21:46:55,504 - scraper - INFO - Scraping article: https://www.thestar.com.my/news
+2025-11-22 21:46:56,458 - scraper - INFO - Scraping article: https://www.thestar.com.my/#
+2025-11-22 21:46:59,111 - scraper - INFO - Scraping article: https://www.thestar.com.my/saved-articles
+2025-11-22 21:47:00,899 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/singapore
+2025-11-22 21:47:01,836 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton/
+2025-11-22 21:47:02,702 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/smebiz
+2025-11-22 21:47:03,609 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport
+2025-11-22 21:47:04,702 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-news/
+2025-11-22 21:47:05,497 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/entertainment-and-style
+2025-11-22 21:47:08,808 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton
+2025-11-22 21:47:09,649 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/labuan-police-probe-discovery-of-eight-year-old-boy-found-dead-in-abandoned-car
+2025-11-22 21:47:11,576 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/true-or-not/
+2025-11-22 21:47:12,108 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/tennis/
+2025-11-22 21:47:13,106 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world/
+2025-11-22 21:47:14,008 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/myanmar-needs-to-fix-power-supply-and-infrastructure-to-revive-its-tourism-sector-says-amro
+2025-11-22 21:47:15,893 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/hockey
+2025-11-22 21:47:16,336 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/letters/2025/11/22/take-heed-of-kings-call-for-an-education-revolution
+2025-11-22 21:47:18,545 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/living/2025/11/22/heart-and-soul-remembering-a-life-well-lived
+2025-11-22 21:47:20,369 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/ets-to-connect-johor-baru-kuala-lumpur-starting-dec-12
+2025-11-22 21:47:21,896 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/golf
+2025-11-22 21:47:22,427 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton/2025/11/22/former-great-razif-lauds-renewed--fire-in-sze-fei-izzuddin-in-australia
+2025-11-22 21:47:24,656 - scraper - INFO - Scraping article: https://www.thestar.com.my/subscribe
+2025-11-22 21:47:26,686 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton/2025/11/22/aussie-open-title-chen-toh039s-to-lose-as-they-hold-edge-over-indonesian-pair
+2025-11-22 21:47:28,474 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/Tariff+Wars
+2025-11-22 21:47:30,816 - scraper - INFO - Scraping article: https://www.thestar.com.my/education
+2025-11-22 21:47:31,956 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech/tech-news/2025/11/22/039youre-so-lucky-im-with-you039-is-the-trump-musk-feud-finally-over
+2025-11-22 21:47:33,951 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/six-states-told-to-prepare-for-possible-disasters-after-continuous-rain-forecast
+2025-11-22 21:47:36,172 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/vietnam
+2025-11-22 21:47:40,845 - scraper - INFO - Scraping article: https://www.thestar.com.my/aseanplus/aseanplus-news/2025/11/22/singaporean-in-us-illegal-trading-probe-bought-rm625000-watch-while-allegedly-working-with-criminal-group
+2025-11-22 21:47:42,699 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/insight/
+2025-11-22 21:47:43,794 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/analysis?bycat=423_1565003109
+2025-11-22 21:47:45,195 - scraper - INFO - Scraping article: https://www.thestar.com.my/tag/short+position
+2025-11-22 21:47:47,854 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-news
+2025-11-22 21:47:48,773 - scraper - INFO - Scraping article: https://www.thestar.com.my/edufund
+2025-11-22 21:47:49,641 - scraper - INFO - Scraping article: https://www.thestar.com.my/foryou/edit
+2025-11-22 21:47:50,427 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/world/2025/11/22/cop30-talks-grind-into-overtime-as-eu-objects-to-proposed-deal
+2025-11-22 21:47:53,007 - scraper - INFO - Scraping article: https://www.thestar.com.my/opinion/columnists/citycism/2025/11/22/cruelty-hits-more-than-just-strays
+2025-11-22 21:47:55,110 - scraper - INFO - Scraping article: https://www.thestar.com.my/
+2025-11-22 21:47:57,232 - scraper - INFO - Scraping article: https://www.thestar.com.my/tech/tech-news/2025/11/22/bitcoin-on-thin-ice-after-sinking-in-flight-from-risk
+2025-11-22 21:47:58,862 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/athletics
+2025-11-22 21:47:59,801 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/badminton/2025/11/21/kento-momota-hints-at-comeback
+2025-11-22 21:48:01,556 - scraper - INFO - Scraping article: https://www.thestar.com.my/business/martketwatch/Bonus
+2025-11-22 21:48:02,168 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/18/interactive-childcare-centres-closing-in-kl-putrajaya-and-perak-despite-rising-demand
+2025-11-22 21:48:04,389 - scraper - INFO - Scraping article: https://www.thestar.com.my/lifestyle/people-and-living
+2025-11-22 21:48:06,471 - scraper - INFO - Scraping article: https://www.thestar.com.my/business
+2025-11-22 21:48:07,529 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/chinese-star-fan-bingbing-eyes-taiwan-top-film-award
+2025-11-22 21:48:09,399 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/other-sport/?bycat=6
+2025-11-22 21:48:10,457 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/22/thunderstorm-warning-issued-for-sarawak-and-sabah
+2025-11-22 21:48:12,421 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/hockey/2025/11/22/malaysia-out-to-settle-score-with-new-zealand-in-sultan-azlan-shah-cup-opener
+2025-11-22 21:48:14,785 - scraper - INFO - Scraping article: https://www.thestar.com.my/starplus
+2025-11-22 21:48:16,612 - scraper - INFO - Scraping article: https://www.thestar.com.my/news/nation/2025/11/01/ipoh-city-council-to-work-with-nadma-on-disaster-planning-preparedness
+2025-11-22 21:48:18,212 - scraper - INFO - Scraping article: https://www.thestar.com.my/sport/football
+2025-11-22 21:48:19,107 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-for-thought
+2025-11-22 21:48:23,022 - scraper - INFO - Scraping article: https://www.thestar.com.my/food/food-news/2025/11/22/tuscan-crepe-treat-for-the-festive-table
+2025-11-22 21:48:25,693 - scraper - INFO - Scraping article: https://www.thestar.com.my/starpicks/2025/11/17/travel-smarter-not-harder?utm_medium=thestar&utm_source=rosnawidget&utm_campaign=Sompo+17Nov25
+2025-11-22 21:48:26,972 - scraper - INFO - Scraping finished for the star. Added 52 new articles.
