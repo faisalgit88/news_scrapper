@@ -1,6 +1,9 @@
 # Use the official Playwright image which includes browsers and dependencies
 FROM mcr.microsoft.com/playwright/python:v1.40.0-jammy
 
+# Ensure browsers install into writable path
+ENV PYPYPLAYWRIGHT_BROWSERS_PATH=/ms-playwright
+
 # Set working directory
 WORKDIR /app
 
@@ -10,9 +13,7 @@ COPY requirements.txt .
 # Install Python dependencies
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Install Playwright browsers (chromium only to save space/time if that's all we use)
-# The base image might have them, but ensuring they are installed is good practice.
-# Since we use 'sync_playwright().chromium.launch()', we need chromium.
+# Install Playwright browsers (chromium only)
 RUN playwright install chromium
 
 # Copy the rest of the application
@@ -22,5 +23,4 @@ COPY . .
 EXPOSE 8501
 
 # Run the application
-# We use the array form for CMD
 CMD ["streamlit", "run", "src/app.py", "--server.port=8501", "--server.address=0.0.0.0"]
