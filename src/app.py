@@ -90,7 +90,7 @@ with st.sidebar:
     import os
     logo_path = os.path.join(os.path.dirname(__file__), "..", "images", "mrcb_logo.png")
     if os.path.exists(logo_path):
-        st.image(logo_path, width=None) # use_container_width is deprecated/renamed in some versions, sticking to default or width='stretch' if needed
+        st.image(logo_path, width="stretch")
     else:
         st.warning(f"Logo not found at {logo_path}")
     st.header("⚙️ Configuration")
