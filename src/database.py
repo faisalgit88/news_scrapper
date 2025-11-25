@@ -36,7 +36,10 @@ class Article(Base):
     source_id = Column(Integer, ForeignKey('sources.id'))
     source = relationship("Source", back_populates="articles")
 
+_engine = None
+
 def init_db(db_path=None):
+    global _engine
     if db_path is None:
         # Default to ../data/news_data.db relative to this file
         base_dir = os.path.dirname(os.path.abspath(__file__))
@@ -44,9 +47,11 @@ def init_db(db_path=None):
         os.makedirs(data_dir, exist_ok=True)
         db_path = f'sqlite:///{os.path.join(data_dir, "news_data.db")}'
         
-    engine = create_engine(db_path)
-    Base.metadata.create_all(engine)
-    return sessionmaker(bind=engine)
+    if _engine is None:
+        _engine = create_engine(db_path, connect_args={'check_same_thread': False})
+        Base.metadata.create_all(_engine)
+    
+    return sessionmaker(bind=_engine)
 
 if __name__ == "__main__":
     init_db()

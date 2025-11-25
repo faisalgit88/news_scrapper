@@ -70,10 +70,28 @@ class NewsScraper:
             return
 
         with sync_playwright() as p:
-            browser = p.chromium.launch(headless=True)
+            browser = p.chromium.launch(
+                headless=True,
+                args=[
+                    '--no-sandbox',
+                    '--disable-setuid-sandbox',
+                    '--disable-dev-shm-usage', # Essential for Docker/Cloud Run
+                    '--single-process' # Helps in resource-constrained envs
+                ]
+            )
             context = browser.new_context()
             # Set a default timeout for the context
-            context.set_default_timeout(60000) 
+            context.set_default_timeout(60000)
+            
+            # Block unnecessary resources to speed up loading
+            def route_intercept(route):
+                if route.request.resource_type in ["image", "stylesheet", "font", "media"]:
+                    route.abort()
+                else:
+                    route.continue_()
+            
+            context.route("**/*", route_intercept)
+            
             page = context.new_page()
 
             try:
