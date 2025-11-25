@@ -294,15 +294,18 @@ with col_charts:
     # PDF Export
     from report_generator import create_pdf_report
     if articles:
-        report_topic = search_query if search_query else "All Topics"
-        pdf_data = create_pdf_report(articles, topic=report_topic)
-        st.download_button(
-            label="📄 Download PDF Report",
-            data=pdf_data,
-            file_name=f"news_report_{datetime.now().strftime('%Y%m%d_%H%M')}.pdf",
-            mime="application/pdf",
-            use_container_width=True
-        )
+        try:
+            report_topic = search_query if search_query else "All Topics"
+            pdf_data = create_pdf_report(articles, topic=report_topic)
+            st.download_button(
+                label="📄 Download PDF Report",
+                data=pdf_data,
+                file_name=f"news_report_{datetime.now().strftime('%Y%m%d_%H%M')}.pdf",
+                mime="application/pdf",
+                width="stretch"
+            )
+        except Exception as e:
+            st.error(f"Failed to generate PDF: {e}")
     
     if articles:
         df = pd.DataFrame([{
