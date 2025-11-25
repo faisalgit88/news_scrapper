@@ -25,7 +25,7 @@ def clean_text(text):
         text = text.replace(char, replacement)
     
     # Encode to latin-1 with replacement for anything else
-    return text.encode('latin-1', 'replace').decode('latin-1')
+    return text.encode('latin-1', 'ignore').decode('latin-1')
 
 def create_pdf_report(articles, topic="General"):
     pdf = PDFReport()

@@ -46,6 +46,7 @@ def init_db(db_path=None):
         data_dir = os.path.join(base_dir, '..', 'data')
         os.makedirs(data_dir, exist_ok=True)
         db_path = f'sqlite:///{os.path.join(data_dir, "news_data.db")}'
+        print(f"DEBUG: Initializing DB at {db_path}")
         
     if _engine is None:
         _engine = create_engine(db_path, connect_args={'check_same_thread': False})
